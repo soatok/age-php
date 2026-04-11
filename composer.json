@@ -28,6 +28,9 @@
             "Soatok\\Age\\Tests\\": "tests/"
         }
     },
+    "suggest": {
+        "ext-pqcrypto": "Better performance and security for post-quantum cryptography"
+    },
     "config": {
         "allow-plugins": {
             "infection/extension-installer": true
