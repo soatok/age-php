@@ -16,7 +16,7 @@ composer require soatok/age
 
 ## Usage
 
-We ecommend using **Hybrid ML-KEM-768 + X25519** for identities and recipients.
+We recommend using **Hybrid ML-KEM-768 + X25519** for identities and recipients.
 
 ```php
 <?php
